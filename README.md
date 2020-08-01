@@ -2,7 +2,7 @@
 Hi, my name is Edmund!
 I'm a second year astrophysics major at Florida State.
 
-_This is just a fun side projectl_
+_This is just a fun side project._
 _If you stumble across this, please keep that in mind!_
 
 A little about this project:
