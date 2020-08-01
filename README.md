@@ -1,0 +1,2 @@
+# mymath
+personal math library
